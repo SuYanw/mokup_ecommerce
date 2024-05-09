@@ -1,5 +1,3 @@
 wheel
 mysql-connector
 django
-flask
-flask_cors
